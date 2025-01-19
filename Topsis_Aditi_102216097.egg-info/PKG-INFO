@@ -1,0 +1,38 @@
+Metadata-Version: 2.2
+Name: Topsis-Aditi-102216097
+Version: 0.1.0
+Summary: A dynamic invoice generator package
+Author: Aditi Vasudeva
+Author-email: aditivasudeva2002@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: reportlab
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: summary
+
+# Dynamic Invoice Generator
+
+This package allows you to generate invoices dynamically in PDF format by providing user inputs.
+
+## Installation
+
+```bash
+pip install
+```
+
+##  License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
